@@ -1,6 +1,6 @@
 {
-  "name": "react-bootstrap",
-  "version": "2.1.2",
+  "name": "dooka",
+  "version": "1.0.1",
   "description": "Bootstrap 5 components built with React",
   "keywords": [
     "react",
@@ -8,9 +8,9 @@
     "react-component",
     "bootstrap"
   ],
-  "homepage": "https://react-bootstrap.github.io/",
+  "homepage": "https://dooka.github.io/",
   "bugs": {
-    "url": "https://github.com/react-bootstrap/react-bootstrap/issues"
+    "url": "https://github.com/dooka/dooka/issues"
   },
   "license": "MIT",
   "author": {
@@ -29,7 +29,7 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-bootstrap/react-bootstrap.git"
+    "url": "git+https://github.com/dooka/dooka.git"
   },
   "scripts": {
     "bootstrap": "yarn --network-timeout 100000 && yarn --cwd www --network-timeout 100000",
